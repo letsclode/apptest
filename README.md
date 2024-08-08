@@ -46,20 +46,8 @@ Scalable Flutter App is a starter template for Flutter & Firebase apps.
 It's designed to be scalable and easy to maintain. And should save you months of development time.
 
 ## About the Author
-
-I'm Milos Jokic and I:
-
-- built my first mobile app in 2007
-- grew my apps to 214k users and $106,140 revenue.
+- built my first mobile app in 2019
 - built apps for 10 Toptal clients.
-
-And now I run a 6-figure devs agency where we launch MVPs in 4 weeks using Flutter & Firebase.
-
-You can find me on:
-
-- [LinkedIn](https://www.linkedin.com/in/milos-jokic/)
-- [Twitter](https://twitter.com/miloshjokic)
-- [Newsletter](http://flutterpreneur.com/)
 
 ## Get Started
 
@@ -77,9 +65,7 @@ To get started with Option 1: Template, click the green "Use this template" butt
 _Best if you want to start a new project from scratch with all the SFA features included.
 And you want to keep your repo up to date with the SFA repo._
 
-To get started with Option 2: Fork, fork the repo and follow the instructions below.
-
-[Here's how to keep your fork up to date.](https://twitter.com/github/status/1390382527588798477)
+To get started with Option 2: Fork, fork the repo.
 
 ### Option 3 - Cherry-Pick
 
@@ -160,8 +146,6 @@ Always keep up to date:
 
 ## Firebase
 
-Firebase Console project set up ([video explanation](https://www.loom.com/share/b40ae21860fa448ebc82e4ff0729a41f)):
-
 1. Create a new Firebase project (if you don't already have one)
 2. Enable Firestore
 3. Enable Auth
@@ -170,9 +154,8 @@ Firebase Console project set up ([video explanation](https://www.loom.com/share/
 6. Enable Cloud Functions
 7. Enable Storage (if needed)
 8. Enable Hosting (if needed)
-9. Enable Remote Config (if needed) ([video explanation](https://www.loom.com/share/d3a215e75fcd4c7393bde143bef450ed))
+9. Enable Remote Config
 
-If you're using Flutter web with Firebase Storage, you'll need to enable CORS: [video explanation](https://www.loom.com/share/0ea25d89c7f9419fbe2113936224037e).
 
 If you want to deploy your Flutter web app:
 
@@ -210,11 +193,8 @@ To set up Firebase in the `/firebase` project:
 
 ## Google Sign In
 
-Here's how to set up Google Sign In: [video explanation](https://www.loom.com/share/69ff9a9132dd4bed866b9f5a8ddd8e45)
-
 ## Apple Sign In
 
-Here's how to set up Apple Sign In: [video explanation](https://www.loom.com/share/3325069427b84c24ac97842dca076688)
 
 ## Notifications
 
@@ -367,17 +347,3 @@ Cool illustrations that match your app's colors (free): [unDraw](https://undraw.
 
 CI/CD for mobile apps (free & paid): [Codemagic](https://codemagic.io/)
 
-Want me to launch your MVP in 4 weeks (premium)?
-[Go to App Launch Program](https://applaunchprogram.com/)
-
-Need a Flutter Expert (paid)? [Go to Flutter Devs Board](https://flutterdevsboard.com/)
-
-# Support
-
-Found an issue or want to request a feature? Open
-an [issue](https://github.com/Gradoid/scalable_flutter_app_pro/issues)
-
-Have a question? Ask me on [LinkedIn](https://www.linkedin.com/in/milos-jokic/)
-or [Twitter](https://twitter.com/miloshjokic). Or send me an email at milos@gradoid.com
-
-Enjoying Scalable Flutter App? [Leave a testimonial](https://testimonial.to/scalable-flutter-app)
